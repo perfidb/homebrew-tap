@@ -1,11 +1,9 @@
 # Perfidb Tap
 
-## How do I install these formulae?
+## How do I install PerfiDB?
 
-`brew install perfidb/tap/<formula>`
-
-Or `brew tap perfidb/tap` and then `brew install <formula>`.
+`brew install perfidb/tap/perfidb`
 
 ## Documentation
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Check [PerfiDB's documentation](https://github.com/perfidb/perfidb#what-is-perfidb).
